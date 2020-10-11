@@ -12,13 +12,13 @@ A familiarity with metric spaces shall be assumed for obvious reasons, as well a
 ## 1. Introduction and Preliminaries
 
 
-What is an angle? [Wikipedia](https://en.wikipedia.org/wiki/Angle) gives the following answer to this question.
+Before we can generalise we must agree on a definition: what is an angle? [Wikipedia](https://en.wikipedia.org/wiki/Angle) gives the following answer to this question.
 
-> *In plane geometry, an angle is the figure formed by two rays, called the sides of the angle, sharing a common endpoint, called the vertex of the angle.*
+> *In plane geometry, an 'angle' is the figure formed by two rays, called the sides of the angle, sharing a common endpoint, called the vertex of the angle. [...] 'Angle' is also used to designate the measure of an angle or of a rotation.*
 
-We will think of an (interior) angle in the Euclidean plane $$\mathbb R^2$$ as a function $$\angle$$ mapping two straight lines which share an endpoint to a real number $$\alpha \in [0,\pi]$$. Clearly then, if we wish to generalise this idea of "angles" to a generic metric space, we must first generalise what we mean by a "straight line". In metric geometry, we typically achieve this by define a "straight line" as an *isometric embedding* of some closed interval. This embedding is known as a *geodesic*, and is defined precisely as follows.
+Defining an angle as a figure will not lead to any interesting mathematics, so for the purposes of this post we shall identify an angle with its *size*. More formally, we will think of an (interior) angle in the Euclidean plane $$\mathbb R^2$$ as a function $$\angle$$ mapping two straight lines which share an endpoint to a real number $$\alpha \in [0,\pi]$$. Clearly then, if we wish to generalise this idea of "angles" to a generic metric space, we must first generalise what we mean by a "straight line". In metric geometry, we typically achieve this by define a "straight line" as an *isometric embedding* of some closed interval. This embedding is known as a *geodesic*, and is defined precisely as follows.
 
-**Definition 1.1.** Let $$(X,d)$$ be a metric space. A map $$\varphi : [a,b] \to X$$ is called a *geodesic* if it is an isometric embedding, i.e. if for all $$x,y \in [a,b]$$, we have
+**Definition 1.1.** (Geodesics) Let $$(X,d)$$ be a metric space. A map $$\varphi : [a,b] \to X$$ is called a *geodesic* if it is an isometric embedding, i.e. if for all $$x,y \in [a,b]$$, we have
 
 $$
 d(\varphi(x), \varphi(y)) = | x - y |.
@@ -29,6 +29,8 @@ We say $$\varphi$$ *issues from* $$\varphi(a)$$. We say that $$\varphi$$ connect
 We similarly we refer to an isometric embedding $$\psi : [c,\infty) \to X$$ as a *geodesic ray*. The image of a geodesic or geodesic ray is called a *geodesic segment*. We may sometimes denote a geodesic segment between two points $$x$$ and $$y$$ in space by $$[a,b]$$.
 
 Our goal here is to generalise the Euclidean definition of an angle between two geodesics, typically defined using the classical [law of cosines](https://en.wikipedia.org/wiki/Law_of_cosines) such that it may be applied to an arbitrary metric space. This will take the form of a function $$\angle$$ which will take as input two geodesics (or geodesic rays) issuing from the same point and output a real number in the required range.
+
+**Remark.** *At this point, we may note that an arbitrary metric space need not contain any geodesic segments. One may now be tempted to point out that the title of this post is thus an exaggeration and the upcoming definition cannot possibly apply to all metric spaces. I would retort however that for a metric space $$X$$, the statement "we can measure the angle between any two geodesics in $$X$$ with a shared endpoint" holds even in the case that no such geodesics exist in $$X$$, for the same reason that "every element of the empty set is puce-coloured" holds.*
 
 Before we get to our key definitions, some notational and terminological remarks.
 The Euclidean norm will be denoted by $$\| \cdot \|_2$$. Secondly, when we refer to a vector space within this post, we will be speaking specifically about *real* vector spaces - i.e. vector spaces over the field $$\mathbb R$$.
