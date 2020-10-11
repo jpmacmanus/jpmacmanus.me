@@ -80,6 +80,8 @@ Intuitively, one can imagine that we choose two points - one on each geodesic, a
 
 As our points approach the issue point, we will see this comparison angle approach some value.
 
+<!--break-->
+
 <div style="text-align:center">
 <a href="{{site.baseurl}}/assets/images/blog/alexandrov/diagram2.png">
 <img src="{{site.baseurl}}/assets/images/blog/alexandrov/diagram2.png" width="65%" /></a>
