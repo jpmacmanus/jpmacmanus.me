@@ -6,9 +6,9 @@ feed-in-sidebar: true
 
 # About Me
 
-I am a recent graduate from the [University of Bristol](https://www.bristol.ac.uk/), and a postgraduate student at the [University of Oxford](https://www.ox.ac.uk/). My key academic interests lie within abstract algebra (particularly group theory), combinatorics, and theoretical computer science.
+I am a postgraduate student at the [University of Oxford](https://www.ox.ac.uk/), and a recent graduate from the [University of Bristol](https://www.bristol.ac.uk/). I'm am mainly interested in combinatorial and geometric group theory, as well as complexity and combinatorics.
 
-I plan to begin a PhD in 2021, and I am currently searching for a supervisor.  
+Later this year I will begin study of a DPhil here in Oxford, funded by the [Heilbronn Institute for Mathematical Research](https://heilbronn.ac.uk/).
 
 # Publications
 
@@ -16,6 +16,10 @@ I plan to begin a PhD in 2021, and I am currently searching for a supervisor.
 
 
 # Education
+
+**University of Oxford** *(upcoming)*   
+*DPhil in Mathematics - 2021 to 2025*  
+\- Supervised by Prof Panagiotis Papazoglou.
 
 **University of Oxford**  
 *MSc in Mathematics and Foundations of Computer Science (MFoCS) - 2020 to 2021*  
@@ -25,13 +29,11 @@ I plan to begin a PhD in 2021, and I am currently searching for a supervisor.
 *BSc in Mathematics and Computer Science, first class honours - 2017 to 2020*  
 \- Bachelor's thesis: *Decision problems within combinatorial group theory*, supervised by Dr Philipp Schlicht.
 
-**Ysgol Aberconwy 6th Form**  
+**Ysgol Aberconwy Sixth Form**  
 *3 A-Levels, at A\*A\*A\* - 2015 to 2017*  
-\- Above results achieved in Maths, Further Maths, and Physics.
 
 **Coleg Llandrillo (Via Conwy LiNC)**  
 *Level 3 BTEC in Programming, at Dist\* - 2015 to 2017*  
-\- Languages studied include C#, Visual Basic, as well as web development in HTML, CSS and Javascript.
 
 # Experience
 
