@@ -1,28 +1,51 @@
 ---
 layout: default-plus
 title: Home
-feed-in-sidebar: false
+feed-in-sidebar: true
 ---
 
-<h1>Latest Posts</h1>
+<h1>About me</h1>
 
-{% for post in site.posts limit:10 %}
-   <div class="post-preview">
-   <h2 class="post-link"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-   <em class="post-date">First published {{ post.date | date: "%B %d, %Y" }}</em>
-   <br><!--<br>
-   <span>[
-     {% for tag in post.tags %}
-       {% capture tag_name %}{{ tag }}{% endcapture %}
-       <a href="/tag/{{ tag_name }}"><code class="tag"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-     {% endfor %}
-   ]</span> -->
+<div id="landing-page-container">
 
-   {{ post.content | split:'<!--break-->' | first }}
-   {% if post.content contains '<!--break-->' %}
-      <a class="read-more-link" href="{{ post.url }}">Continue reading...</a>
-   {% else %}
-      <div class="no-read-more-padding"></div>
-   {% endif %}
-   </div>
-{% endfor %}
+<div id="banner-cont">
+  <img src="{{site.baseurl}}/assets/images/ox.jpg" width="100%">
+</div>
+
+
+<h3>Postgraduate student at Balliol College, Oxford, and recent graduate from the University of Bristol. </h3>
+
+
+<p id="bio">
+I am currently reading for the MFoCS MSc at the Mathematical Insitute in the University of Oxford.
+Later this year I will begin study of a DPhil in Mathematics here, funded by a scholarship from the
+Heilbronn Institute for Mathematical Research.
+</p>
+
+<p id="bio">
+Before this, I completed my undergraduate education at the University of Bristol,
+where I earned a BSc in Mathematics and Computer Science.
+</p>
+
+<p id="bio">
+I am broadly interested in combinatorial and geometric group theory, as well as complexity theory and combinatorics.
+</p>
+
+<!-- <h3>Publications and Manuscripts</h3>
+ -->
+
+
+<h3>Contact Info</h3>
+
+<p id="bio">
+You can reach me by email at:
+<span>
+<code class="tag" id="email-tag"> macmanus&nbsp;@&nbsp;maths.ox.ac.uk </code>
+</span>
+</p>
+
+<p id="bio">Alternatively, find me on the following platforms.</p>
+<br>
+{% include socials.html %}
+
+</div>

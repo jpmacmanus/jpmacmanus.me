@@ -1,10 +1,12 @@
 - name: Home
   link: /
-- name: About
-  link: /about.html
+# - name: About
+#   link: /about.html
+- name: Blog
+  link: /blog.html
 - name: Archive
   link: /archive.html
-- name: Contact
-  link: /contact.html
+# - name: Contact
+#   link: /contact.html
 
 # add links in here to update the nav bar
