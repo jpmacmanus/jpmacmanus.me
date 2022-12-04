@@ -13,7 +13,7 @@ This post is adapted from a short project I completed last year. Do get in touch
 
 ## 1. The Beginning - from Poincaré to Dehn
 
-The theory of three-dimensional manifolds has been a topic of great interest for well over century, and we begin our account with the work of Henri Poincaré. 
+The theory of three-dimensional manifolds has been a topic of great interest for well over a century, and we begin our account with the work of Henri Poincaré. 
 
 In [25], Poincaré introduces the notion of the *fundamental group* of a space. He believed that such a tool could lead to a more sophisticated classification of topological spaces than had existed before. In a later work [26], Poincaré raises the following question, which inspired generations of mathematicians. 
 
@@ -181,7 +181,7 @@ Indeed suppose $$M$$ is a closed, simply connected manifold. By elliptisation, w
 
 We give a brief introduction to Ricci flow, and describe how Hamilton and Perelman used it to complete the proof of the Poincaré conjecture. 
 
-In short, Ricci flow is a method of continuously deforming a Riemannian metric, in a way that mimics the heat equation. In order to make this more precise, we need to briefly introduce *Ricci curvature*, which is in some sense a directional version of the usual notion of scalar curvature. We will introduce it in the context of Riemannian surfaces,\footnote{} 
+In short, Ricci flow is a method of continuously deforming a Riemannian metric, in a way that mimics the heat equation. In order to make this more precise, we need to briefly introduce *Ricci curvature*, which is in some sense a directional version of the usual notion of scalar curvature. We will introduce it in the context of Riemannian surfaces,
 for the sake of exposition, as in higher dimensions things get quite a bit more complicated. This is a bit cheeky, as in two dimensions we actually have that Ricci curvature and scalar curvature differ by a constant factor of 2. Nevertheless, we will press on. This brief description is due to Tao [32].
 
 Recall that a Riemannian metric $$g$$ on a surface $$M$$ allows us to discuss not just distance, but the ideas of *angle* and *area* too. Let $$\angle(x,r \theta, v)$$ denote the angular sector based at $$x$$, with angle $$\theta$$ and radius $$r$$, centered on the tangent vector $$v$$. Let $$|\angle(x,r, \theta, v)|$$ denote the area of this segment. Recall that such a segment in Euclidean space will have area $$\frac 1 2 \theta r^2$$, but such a segment in $$M$$ may have a slightly different area. 
