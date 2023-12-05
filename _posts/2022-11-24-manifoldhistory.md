@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Brief History of Three-Dimensional Manifolds"
+title: "A brief history of three-dimensional manifolds"
 author: Joseph
 tags: maths metric-geometry topology 
 ---

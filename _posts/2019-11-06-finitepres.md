@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Finitely-Generated Group that is not Finitely Presentable"
+title: "A finitely-generated group that is not finitely presentable"
 author: Joseph
 tags: group-theory algebra
 ---

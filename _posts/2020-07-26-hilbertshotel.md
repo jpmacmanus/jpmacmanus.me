@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hilbert's Hotel, but the Guests are Mere Mortals"
+title: "Hilbert's hotel, but the guests are mere mortals"
 author: Joseph
 tags: maths combinatorics
 ---

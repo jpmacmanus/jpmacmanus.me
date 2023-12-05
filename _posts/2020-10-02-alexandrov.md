@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Measuring Angles within Arbitrary Metric Spaces"
+title: "Measuring angles within arbitrary metric spaces"
 author: Joseph
 tags: maths metric-geometry
 ---

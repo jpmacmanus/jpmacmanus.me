@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Oxford Postgrad Interview: Applying for the MFoCS MSc"
+title: "My Oxford postgrad interview: applying for the MFoCS MSc"
 author: Joseph
 tags: education admissions
 ---

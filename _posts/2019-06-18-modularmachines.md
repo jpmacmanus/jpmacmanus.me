@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modular Machines and their equivalence to Turing Machines"
+title: "Modular machines and their equivalence to Turing machines"
 author: Joseph
 tags: computability modular-machines recursion turing-machines automata
 ---

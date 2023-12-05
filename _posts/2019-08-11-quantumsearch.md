@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quantum Search for the Everyday Linear Algebraist"
+title: "Quantum search for the everyday linear algebraist"
 author: Joseph
 tags: quantum-computation algorithm-theory linear-algebra
 ---
