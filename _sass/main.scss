@@ -80,7 +80,7 @@ p {
 }
 
 ol.references {
-  line-height: 1.3;
+  line-height: 1.5;
 }
 
 // any element with this class will be transparent initially and fade in.
@@ -134,6 +134,12 @@ ol.references {
 
 div.post-preview {
   margin-bottom: -5em;
+  border-top: 1px solid $border-colour;
+  padding: 0 16px;
+}
+
+div.research-cont {
+  margin-bottom: 2em;
   border-top: 1px solid $border-colour;
   padding: 0 16px;
 }

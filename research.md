@@ -5,13 +5,9 @@ feed-in-sidebar: true
 ---
 
 
-<div id="banner-cont">
-  <img src="{{site.baseurl}}/assets/images/blackboard.jpg" width="100%">
-</div>
+<h1>Research</h1>
 
-
-<h3>Below is a summary of my research output, including papers and talks.</h3>
-
+<div class="research-cont">
 
 
 <h4>Preprints</h4>
@@ -96,7 +92,7 @@ feed-in-sidebar: true
     </li>
     <br>
     <li> 
-        Jagiellonian University, Theoretical Computer Science Seminar (April 2025) - 
+        Jagiellonian University, Kraków, Theoretical Computer Science Seminar (April 2025) - 
         <i>
         Asymptotic minors of Cayley graphs.
         </i> 
@@ -194,3 +190,4 @@ feed-in-sidebar: true
   <li>I ran the the <a href="https://www.maths.ox.ac.uk/events/list/655">Junior Topology and Group Theory seminar</a> at Oxford for 2022-23.</li>
  </ul>
  
+ </div>
