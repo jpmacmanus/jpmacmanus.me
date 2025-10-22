@@ -10,6 +10,10 @@ feed-in-sidebar: true
 <div class="research-cont">
 
 
+
+
+
+
 <h4>Preprints</h4>
 
  <ol class="references">
@@ -61,10 +65,19 @@ feed-in-sidebar: true
 </ol>
 
 
+
+<h4>Thesis</h4>
+
+
+<ul>
+  <li>Find my PhD thesis, titled <i>Splittings, tiles, and planarity: a trio of problems in geometric group theory</i>, at <a href="{{site.baseurl}}/assets/files/thesis.pdf">this link</a>.</li>
+ </ul>
+
+
 <h4>Talks</h4>
 
 
-<ol>
+<ol class="references">
     <li> Isaac Newton Institute, Cambridge, OGG Colloquium (upcoming, November 2025) - 
         <i>
         All countable groups are quasi-isometry groups.
