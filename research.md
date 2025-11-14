@@ -78,13 +78,13 @@ feed-in-sidebar: true
 
 
 <ol class="references">
-    <li> Isaac Newton Institute, Cambridge, OGG Colloquium (upcoming, November 2025) - 
+    <li> Isaac Newton Institute, Cambridge, OGG Colloquium (November 2025) - 
         <i>
         All countable groups are quasi-isometry groups.
         </i> 
     </li>
     <br>
-    <li> University of Bristol, Algebra Seminar (upcoming, October 2025) - 
+    <li> University of Bristol, Algebra Seminar (October 2025) - 
         <i>
         On why quasi-isometry groups mean everything to me.
         </i> 
