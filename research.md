@@ -18,6 +18,10 @@ feed-in-sidebar: true
 
  <ol class="references">
 
+ <li>
+    MacManus, J. (2025). Vertex-transitive graphs with uniformly bisecting quasi-geodesics. <i>arXiv preprint.</i> 
+  </li>
+
   <li>
     MacManus, J. (2024). A note on transitve graphs quasi-isometric to planar (Cayley) graphs. <i>arXiv preprint.</i> arXiv:2407.13375. 
     <a href="https://arxiv.org/abs/2407.13375">Link</a>
