@@ -19,7 +19,8 @@ feed-in-sidebar: true
  <ol class="references">
 
  <li>
-    MacManus, J. (2025). Vertex-transitive graphs with uniformly bisecting quasi-geodesics. <i>arXiv preprint.</i> 
+    MacManus, J. (2025). Vertex-transitive graphs with uniformly bisecting quasi-geodesics. <i>arXiv preprint.</i> 	arXiv:2511.10759.
+    <a href="https://arxiv.org/abs/2511.10759">Link</a>
   </li>
   <br>
 
