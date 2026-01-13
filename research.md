@@ -19,6 +19,12 @@ feed-in-sidebar: true
  <ol class="references">
 
  <li>
+    Heim, P., MacManus, J., Mineh, L. (2026). Realising all countable groups as quasi-isometry groups. <i>arXiv preprint.</i> 	arXiv:2601.06261.
+    <a href="https://arxiv.org/abs/2601.06261">Link</a>
+  </li>
+  <br>
+
+ <li>
     MacManus, J. (2025). Vertex-transitive graphs with uniformly bisecting quasi-geodesics. <i>arXiv preprint.</i> 	arXiv:2511.10759.
     <a href="https://arxiv.org/abs/2511.10759">Link</a>
   </li>
