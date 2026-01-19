@@ -1,0 +1,198 @@
+preprints:
+  - authors: "Heim, P., MacManus, J., Mineh, L."
+    year: 2026
+    title: "Realising all countable groups as quasi-isometry groups"
+    venue: "arXiv preprint"
+    arxiv: "2601.06261"
+    link: "https://arxiv.org/abs/2601.06261"
+    link_text: "Link"
+    abstract: |
+      Given any countable group \(G\), we construct uncountably many quasi-isometry
+      classes of proper geodesic metric spaces with quasi-isometry group isomorphic
+      to \(G\). Moreover, if the group \(G\) is a hyperbolic group, the spaces we
+      construct are hyperbolic metric spaces. 
+      
+      We make use of a rigidity phenomenon
+      for quasi-isometries exhibited by many symmetric spaces, called strong
+      quasi-isometric rigidity. Our method involves the construction of new
+      examples of strongly quasi-isometrically rigid spaces, arising as graphs of
+      strongly quasi-isometrically rigid rank-one symmetric spaces.
+  - authors: "MacManus, J."
+    year: 2025
+    title: "Vertex-transitive graphs with uniformly bisecting quasi-geodesics"
+    venue: "arXiv preprint"
+    arxiv: "2511.10759"
+    link: "https://arxiv.org/abs/2511.10759"
+    link_text: "Link"
+    abstract: |
+      Suppose that \(X\) is an infinite, connected, locally finite, quasi-transitive graph 
+      with the property that every bi-infinite quasi-geodesic uniformly coarsely separates 
+      \(X\) into exactly two deep pieces. We show that such an \(X\) is quasi-isometric to either the 
+      Euclidean plane or the hyperbolic plane. In particular, if \(X\) is a Cayley graph of a 
+      finitely generated group \(G\) with the above property, then \(G\) is a virtual surface group. 
+      This can be interpreted as an extension of the well-known fact that a hyperbolic group 
+      with circular boundary is virtually Fuchsian. 
+    
+      Our theorem positively resolves Problem 14.98 of the Kourovka Notebook, posed by 
+      V. A. Churkin in 1999.  
+      The proof uses an isoperimetric inequality of Varopoulos to show that if 
+      such a graph has the above property, then either it is hyperbolic or has quadratic growth.
+  - authors: "MacManus, J."
+    year: 2024
+    title: "A note on transitive graphs quasi-isometric to planar (Cayley) graphs"
+    venue: "arXiv preprint"
+    arxiv: "2407.13375"
+    link: "https://arxiv.org/abs/2407.13375"
+    link_text: "Link"
+    abstract: |
+      Given a connected, locally finite, quasi-transitive graph \(X\) which is quasi-isometric to 
+      a planar graph \(\Gamma\), we remark that one can upgrade \(\Gamma\) to be a planar Cayley graph, 
+      answering a question raised by Esperet--Giocanti and Hamann.
+  - authors: "Baligács, J., MacManus, J."
+    year: 2024
+    title: "The metric Menger problem"
+    venue: "arXiv preprint"
+    arxiv: "2403.05630"
+    link: "https://arxiv.org/abs/2403.05630"
+    link_text: "Link"
+    abstract: |
+      We study a generalization of the well-known disjoint paths problem which we call the metric Menger problem, 
+      denoted \(MM(r,k)\), where one is given two subsets of a graph and must decide whether they can be connected 
+      by \(k\) paths of pairwise distance at least \(r\). 
+      We prove that this problem is \(NP\)-complete for every \(r\geq 3\) and \(k\geq 2\) by giving a reduction from \(3SAT\). 
+      This resolves a conjecture recently stated by Georgakopoulos and Papasoglu. 
+  - authors: "MacManus, J., Mineh, L."
+    year: 2024
+    title: "Tiling in some nonpositively curved groups"
+    venue: "arXiv preprint"
+    arxiv: "2401.09545"
+    link: "https://arxiv.org/abs/2401.09545"
+    link_text: "Link"
+    abstract: |
+      We prove that acylindrically hyperbolic groups are monotileable. That is, every finite subset of the group is 
+      contained in a finite tile. This provides many new examples of monotileable groups, and progress 
+      on the question of whether every countable group is monotileable. In particular, 
+      one-relator groups and many Artin groups are monotileable.
+  - authors: "MacManus, J."
+    year: 2023
+    title: "Accessibility, planar graphs, and quasi-isometries"
+    venue: "arXiv preprint"
+    arxiv: "2310.15242"
+    link: "https://arxiv.org/abs/2310.15242"
+    link_text: "Link"
+    abstract: |
+      We prove that a connected, locally finite, quasi-transitive graph which is 
+      quasi-isometric to a planar graph is necessarily accessible. 
+      This leads to a complete classification of the finitely generated groups which 
+      are quasi-isometric to planar graphs. In particular, such a group is virtually a free product of free 
+      and surface groups, and thus virtually admits a planar Cayley graph. 
+
+publications:
+  - authors: "MacManus, J."
+    year: 2025
+    title: "Fat minors in finitely presented groups"
+    venue: "Combinatorica 45 (4), 40"
+    link: "https://arxiv.org/abs/2408.10748"
+    link_text: "arXiv link"
+    abstract: |
+      We show that a finitely presented group virtually admits a planar Cayley graph 
+      if and only if it is asymptotically minor-excluded, partially 
+      answering a conjecture of Georgakopoulos and Papasoglu in the affirmative.    
+  - authors: "MacManus, J."
+    year: 2024
+    title: "Deciding if a hyperbolic group splits over a given quasiconvex subgroup"
+    venue: "Groups, Geom. Dyn."
+    link: "https://arxiv.org/abs/2210.09973"
+    link_text: "arXiv link"
+    abstract: |
+      We present an algorithm which decides whether a given quasiconvex residually finite subgroup \(H\) of a 
+      hyperbolic group \(G\) is associated with a splitting. The methods developed also provide algorithms for 
+      computing the number of filtered ends \(\tilde e(G,H)\) of \(H\) in \(G\) under certain hypotheses, and 
+      give a new straightforward algorithm for computing the number of ends \(e(G,H)\) of the Schreier graph of \(H\). 
+      Our techniques extend those of Barrett via the use of labelled digraphs, 
+      the languages of which encode information on the connectivity of \(\partial G - \Lambda H\). 
+  - authors: "Alexandru, C.-M., Bridgett-Tomkinson, E., Linden, N., MacManus, J., Montanaro, A., Morris, H."
+    year: 2020
+    title: "Quantum speedups of some general-purpose numerical optimisation algorithms"
+    venue: "Quantum Science and Technology, 5(4), 045014"
+    link: "https://arxiv.org/abs/2004.06521"
+    link_text: "arXiv link"
+    abstract: |
+      We give quantum speedups of several general-purpose numerical optimisation methods for
+      minimising a function \(f : \mathbb{R}^n \to \mathbb{R}\). First, we show that many techniques for global optimisation
+      under a Lipschitz constraint can be accelerated near-quadratically. Second, we show that
+      backtracking line search, an ingredient in quasi-Newton optimisation algorithms, can be
+      accelerated up to quadratically. Third, we show that a component of the Nelder-Mead algorithm
+      can be accelerated by up to a multiplicative factor of \(O(\sqrt{n})\text{.}\) Fourth, we show that a quantum
+      gradient computation algorithm of Gilyén et al can be used to approximately compute gradients in
+      the framework of stochastic gradient descent. In each case, our results are based on applying
+      existing quantum algorithms to accelerate specific components of the classical algorithms, rather
+      than developing new quantum techniques.
+
+thesis:
+  title: "Splittings, tiles, and planarity: a trio of problems in geometric group theory"
+  link: "/assets/files/thesis.pdf"
+  link_text: "this link"
+
+talks:
+  - venue: "North Dakota State Univeristy, Fargo, AMS Sectional Meeting"
+    date: "April 2026"
+    upcoming: true
+    title: "TBC"
+  - venue: "Isaac Newton Institute, Cambridge, OGG Colloquium"
+    date: "November 2025"
+    title: "All countable groups are quasi-isometry groups."
+  - venue: "University of Bristol, Algebra Seminar"
+    date: "October 2025"
+    title: "On why quasi-isometry groups mean everything to me."
+  - venue: "University of Oxford, Geometric Group Theory Seminar"
+    date: "May 2025"
+    title: "Coarse geometry of planar groups."
+  - venue: "University of Oxford, Junior Topology and Group Theory Seminar"
+    date: "May 2025"
+    title: "Fat minors and where to find them."
+  - venue: "Jagiellonian University, Kraków, Theoretical Computer Science Seminar"
+    date: "April 2025"
+    title: "Asymptotic minors of Cayley graphs."
+  - venue: "ICMAT, Madrid, Group Theory Seminar"
+    date: "March 2025"
+    title: "Coarse characterisations of planarity in Cayley graphs."
+  - venue: "University of Bristol, Geometry and Topology Seminar"
+    date: "October 2024"
+    title: "Coarse characterisations of planarity in Cayley graphs."
+  - venue: "World of Geometric Group Theory IV, Online"
+    date: "September 2024"
+    title: "Coarsely characterising planarity in Cayley graphs."
+  - venue: "University of Warwick, Geometry and Topology Seminar"
+    date: "February 2024"
+    title: "Groups quasi-isometric to planar graphs."
+  - venue: "University of Exeter, ITMAIA"
+    date: "February 2024"
+    title: "Tilings in groups."
+  - venue: "University of Oxford, Junior Topology and Group Theory Seminar"
+    date: "October 2023"
+    title: "Reasons to be accessible."
+  - venue: "University of Southampton, ECSTASy"
+    date: "August 2023"
+    title: "Characterising surface groups."
+  - venue: "Heriot-Watt University, PGTC"
+    date: "July 2023"
+    title: "Understanding limit sets via finite automata."
+  - venue: "University of Oxford, Junior Topology and Group Theory Seminar"
+    date: "May 2023"
+    title: "Planar Cayley graphs and accessibility."
+  - venue: "University of Cambridge, Junior Geometry Seminar"
+    date: "April 2023"
+    title: "Splitting detection, and limit set complements."
+  - venue: "University of Bristol, Junior Geometry Seminar"
+    date: "February 2023"
+    title: "Will it split? Recognising edge groups in hyperbolic groups."
+  - venue: "University of Oxford, Junior Topology and Group Theory Seminar"
+    date: "March 2022"
+    title: "Detecting topological features of the Gromov boundary."
+
+misc:
+  - text: "I ran the the"
+    link: "https://www.maths.ox.ac.uk/events/list/655"
+    link_text: "Junior Topology and Group Theory seminar"
+    suffix: " at Oxford for 2022-23."

@@ -80,7 +80,49 @@ p {
 }
 
 ol.references {
-  line-height: 1.2;
+  line-height: 1.35;
+  li {
+    margin: 0 0 0.8rem;
+    line-height: 1.35;
+  }
+}
+
+.reference-year {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 800;
+  text-shadow: 0 0 0.6px currentColor;
+}
+
+.reference-abstract {
+  margin-top: 0.4rem;
+}
+
+.reference-abstract-body {
+  background-color: $highlight-colour;
+  border-radius: 4px;
+  margin-top: 0.5rem;
+  padding: 0.4rem 1rem 0.8rem;
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: max-height 220ms ease, opacity 220ms ease;
+}
+
+.reference-abstract summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: $accent-colour;
+}
+
+.reference-abstract[open] .reference-abstract-body {
+  max-height: 1200px;
+  opacity: 1;
+}
+
+.reference-abstract p {
+  margin: 0.4rem 0 0;
+  line-height: 1.4;
+  text-align: left;
 }
 
 // any element with this class will be transparent initially and fade in.

@@ -1,0 +1,5 @@
+{% assign abstract_text = include.abstract | strip | replace: "\r\n", "\n" %}
+<p>{{ abstract_text | replace: "
+
+", "</p><p>" | replace: "
+", " " }}</p>
