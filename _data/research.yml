@@ -61,18 +61,6 @@ preprints:
       by \(k\) paths of pairwise distance at least \(r\). 
       We prove that this problem is \(NP\)-complete for every \(r\geq 3\) and \(k\geq 2\) by giving a reduction from \(3SAT\). 
       This resolves a conjecture recently stated by Georgakopoulos and Papasoglu. 
-  - authors: "MacManus, J., Mineh, L."
-    year: 2024
-    title: "Tiling in some nonpositively curved groups"
-    venue: "arXiv preprint"
-    arxiv: "2401.09545"
-    link: "https://arxiv.org/abs/2401.09545"
-    link_text: "Link"
-    abstract: |
-      We prove that acylindrically hyperbolic groups are monotileable. That is, every finite subset of the group is 
-      contained in a finite tile. This provides many new examples of monotileable groups, and progress 
-      on the question of whether every countable group is monotileable. In particular, 
-      one-relator groups and many Artin groups are monotileable.
   - authors: "MacManus, J."
     year: 2023
     title: "Accessibility, planar graphs, and quasi-isometries"
@@ -88,6 +76,17 @@ preprints:
       and surface groups, and thus virtually admits a planar Cayley graph. 
 
 publications:
+  - authors: "MacManus, J., Mineh, L."
+    year: 2026
+    title: "Tiling in some nonpositively curved groups"
+    venue: "To appear in Trans. Am. Math. Soc."
+    link: "https://arxiv.org/abs/2401.09545"
+    link_text: "arXiv link"
+    abstract: |
+      We prove that acylindrically hyperbolic groups are monotileable. That is, every finite subset of the group is 
+      contained in a finite tile. This provides many new examples of monotileable groups, and progress 
+      on the question of whether every countable group is monotileable. In particular, 
+      one-relator groups and many Artin groups are monotileable.
   - authors: "MacManus, J."
     year: 2025
     title: "Fat minors in finitely presented groups"
