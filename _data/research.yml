@@ -1,4 +1,17 @@
 preprints:
+  - authors: "Mackay, J. M., MacManus, J. P., Spriano, D."
+    year: 2026
+    title: "Almost planar finitely presented groups"
+    venue: "arXiv preprint"
+    arxiv: "2605.03040"
+    link: "https://arxiv.org/abs/2605.03040"
+    link_text: "Link"
+    abstract: |
+      We show that finitely presented groups which admit k-planar Cayley graphs contain 
+      finite-index subgroups with planar Cayley graphs. More generally, we answer a question 
+      of Georgakopoulos and Papasoglu in the special case of coarsely simply connected graphs: 
+      a k-planar, coarsely simply connected, connected, locally finite, quasi-transitive graph 
+      is quasi-isometric to a planar graph.
   - authors: "Heim, P., MacManus, J., Mineh, L."
     year: 2026
     title: "Realising all countable groups as quasi-isometry groups"
