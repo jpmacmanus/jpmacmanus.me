@@ -1,4 +1,21 @@
 preprints:
+  - authors: "MacManus, J. P."
+    year: 2026
+    title: "Relative accessibility for graphs"
+    venue: "arXiv preprint"
+    arxiv: "2605.12629"
+    link: "https://arxiv.org/abs/2605.12629"
+    link_text: "Link"
+    abstract: |
+      We relativise the Thomassen--Woess definition of accessibility in graphs, 
+      defining what it means for a graph to be 'accessible relative to a peripheral system'. 
+      In the case of locally finite, quasi-transitive graphs, we characterise relative accessibility 
+      in terms of a certain subring of the Boolean ring of the graph, and apply this to show that our 
+      definition agrees with the usual algebraic notion of relative accessibility in finitely 
+      generated groups. This implies, in particular, that relative accessibility is a 
+      quasi-isometry invariant amongst finitely generated groups, when the quasi-isometry 
+      coarsely preserves the left cosets of the peripheral subgroups. We also deduce a relative 
+      variant of Hamann's accessibility theorem on graphs with finitely generated cycle spaces. 
   - authors: "Mackay, J. M., MacManus, J. P., Spriano, D."
     year: 2026
     title: "Almost planar finitely presented groups"
@@ -149,8 +166,7 @@ thesis:
 talks:
   - venue: "North Dakota State Univeristy, Fargo, AMS Sectional Meeting"
     date: "April 2026"
-    upcoming: true
-    title: "TBC"
+    title: "Monotileable groups and acylindrical hyperbolicity"
   - venue: "Isaac Newton Institute, Cambridge, OGG Colloquium"
     date: "November 2025"
     title: "All countable groups are quasi-isometry groups."
