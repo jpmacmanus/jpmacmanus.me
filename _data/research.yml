@@ -1,4 +1,35 @@
 preprints:
+  - authors: "MacManus, J. P., Miraftab B."
+    year: 2026
+    title: "Vertex cuts and median decompositions"
+    venue: "arXiv preprint"
+    arxiv: "2606.19473"
+    link: "http://arxiv.org/abs/2606.19473"
+    link_text: "Link"
+    abstract: |
+      Median decompositions were introduced by Stavropoulos in 2015 as a
+      generalisation of tree decompositions. In this paper, we further develop and
+      exposit this theory as a tool in structural graph theory to study systems of
+      vertex separations.
+      
+      Generalising the well-known fact that nested systems of vertex separations
+      produce tree decompositions of a graph over the structure tree, we describe how
+      a (not necessarily nested) system of separations produces a median
+      decomposition. The median graph in this decomposition is the 'dual median
+      graph' constructed by Sageev. If the system of cuts is nested then this median
+      decomposition recovers precisely the aforementioned tree decomposition. We
+      prove a theorem asserting that this decomposition is 'uniquely minimal', and
+      describe how Sageev--Roller duality manifests in median decompositions.
+      
+      As an application of our structural approach, we extend a theorem of
+      Stavropoulos from finite graphs to all graphs, which states that the
+      median-width a graph is equal to its clique number.
+      
+      We also describe the link between (canonical) median decompositions and
+      (equivariant) coarse embeddings/quasi-isometries into median graphs. A
+      corollary of these results is a characterisation of when a finitely generated
+      group acts metrically-properly/geometrically on a median graph, in terms of
+      canonical median decompositions of its Cayley graphs. 
   - authors: "MacManus, J. P."
     year: 2026
     title: "Relative accessibility for graphs"
