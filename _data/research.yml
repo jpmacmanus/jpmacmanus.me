@@ -1,6 +1,18 @@
 preprints:
   - authors: "MacManus, J. P., Miraftab B."
     year: 2026
+    title: "Separation profiles of hyperbolic planar and apex-minor-free graphs"
+    venue: "arXiv preprint"
+    arxiv: "2607.07809"
+    link: "https://arxiv.org/abs/2607.07809"
+    link_text: "Link"
+    abstract: |
+      We show that the separation profile of a hyperbolic planar
+      graph and, more generally, a hyperbolic apex-minor-free graph, grows
+      at most logarithmically, answering a question of Benjamini, Schramm,
+      and Timár in the affirmative.
+  - authors: "MacManus, J. P., Miraftab B."
+    year: 2026
     title: "Vertex cuts and median decompositions"
     venue: "arXiv preprint"
     arxiv: "2606.19473"
