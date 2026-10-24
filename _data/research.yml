@@ -1,4 +1,25 @@
 preprints:
+  - authors: "MacManus, J. P."
+    year: 2026
+    title: "Minor exclusion and planar rigidity"
+    venue: "arXiv preprint"
+    arxiv: "2610.12576"
+    link: "https://arxiv.org/abs/2610.12576"
+    link_text: "Link"
+    abstract: |
+      We prove that every connected, locally finite, quasi-transitive graph 
+      which is quasi-isometric to a graph excluding a countable clique as a minor 
+      is quasi-isometric to a planar graph. Consequently, every finitely generated 
+      group with such a quasi-isometry is virtually planar, meaning that some 
+      finite-index subgroup admits a planar Cayley graph.
+      
+      We also show that a connected, locally finite, quasi-transitive graph 
+      admitting a regular map into a bounded-degree graph excluding some finite 
+      minor admits a regular map into a bounded-degree planar graph. If the source 
+      is accessible, the target need only exclude a countable clique. Combined with 
+      work of Mackay, Spriano, and the present author, this shows that a finitely 
+      presented group admits a regular map into a bounded-degree graph excluding 
+      a countable clique if and only if it is virtually planar.
   - authors: "MacManus, J. P., Miraftab B."
     year: 2026
     title: "Separation profiles of hyperbolic planar and apex-minor-free graphs"
@@ -207,6 +228,9 @@ thesis:
   link_text: "this link"
 
 talks:
+  - venue: "Università di Pisa, LiT IV"
+    date: "October 2026"
+    title: "Almost planar finitely presented groups"
   - venue: "North Dakota State Univeristy, Fargo, AMS Sectional Meeting"
     date: "April 2026"
     title: "Monotileable groups and acylindrical hyperbolicity"
